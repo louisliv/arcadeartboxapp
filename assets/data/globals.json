@@ -1,0 +1,68 @@
+{
+    "buttons": [
+        {
+            "title": "Play", 
+            "id": "play",
+            "btn_class": "28a745",
+            "text_class": "ffffff",
+            "icon": "0xe037", 
+            "fontFamily": "MaterialIcons"
+        },
+        {
+            "title": "Pause", 
+            "id": "pause",
+            "btn_class": "ffc107",
+            "text_class": "212529",
+            "icon": "0xe034",
+            "fontFamily": "MaterialIcons"
+        },
+        {
+            "title": "Volume", 
+            "id": "vol_down",
+            "btn_class": "5a6268",
+            "text_class": "ffffff",
+            "icon": "0xe04d",
+            "fontFamily": "MaterialIcons"
+        },
+        {
+            "title": "Volume", 
+            "id": "vol_up",
+            "btn_class": "5a6268",
+            "text_class": "ffffff",
+            "icon": "0xe050",
+            "fontFamily": "MaterialIcons"
+        },
+        {
+            "title": "Mute", 
+            "id": "mute",
+            "btn_class": "0069d9",
+            "text_class": "ffffff",
+            "icon": "0xe04f",
+            "fontFamily": "MaterialIcons"
+        },
+        {
+            "title": "Next", 
+            "id": "refresh",
+            "btn_class": "23272b",
+            "text_class": "ffffff",
+            "icon": "0xe044",
+            "fontFamily": "MaterialIcons"
+        },
+        {
+            "title": "Skip",
+            "id": "skip_backward",
+            "btn_class": "5a6268",
+            "text_class": "ffffff",
+            "icon": "0xe020",
+            "fontFamily": "MaterialIcons"
+        },
+        {
+            "title": "Skip",
+            "id": "skip_forward",
+            "btn_class": "5a6268",
+            "text_class": "ffffff",
+            "icon": "0xe01f",
+            "fontFamily": "MaterialIcons"
+        }
+    ]
+}
